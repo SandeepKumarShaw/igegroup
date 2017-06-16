@@ -1,0 +1,1 @@
+<?php if( get_option('of_lycountdowntitleenable') == 'true') { echo get_option('of_lycountdowntitle');} else { ?>We aim to launch in..<?php } ?>

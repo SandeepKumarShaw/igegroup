@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+.o-button-anchor_icon{
+    float: left;
+    background-image:url(../image/Down-arrow.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.o-button-anchor_icon.-noanim{
+    float: left;
+    background-image:url(../image/Next-arrow.png);
+    background-size: contain;
+    background-repeat: no-repeat;	
+	}
+img.logo2 {
+    display: none;
+}
+.is-scaled img.logo2{ display:block;}
+.is-scaled img.logo1{ display:none;}
+.-next .c-carousel_button_icon{
+	background-image:url(../image/Next-arrow.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    height: 15px;}
+
+.-prev .c-carousel_button_icon{
+	background-image:url(../image/Previous.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    height: 15px;}	
+	
+ .-contact .-orange .o-button_icon{
+    background-image: url(../image/Next-arrow.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    height: 15px;
+    float: right;
+    margin-top: -4px;	
+	}
+.has-map-open .-contact .-orange .o-button_icon {
+    background-image: url(../image/closebtn.png);
+    background-size: 20px;
+    float: none;
+}
+form.c-contact_form .o-input-icon{background-image: url(../image/paperclip.png);
+    background-size: 14px;
+    background-repeat: no-repeat;}
+	
+.o-form_feedback_check{
+background-image: url(../image/check.png);
+    background-size: 23px;
+    background-repeat: no-repeat;	
+	}
+	
+.o-button-next_icon{
+    float: left;
+    background-image:url(../image/Down-arrow.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
